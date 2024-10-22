@@ -63,6 +63,7 @@ $(document).ready(function () {
 });
 var typed = new Typed(".typing-text", {
   strings: [
+    "Hackathons",
     "Frontend Development",
     "Backend Development",
     "IOS Development",
