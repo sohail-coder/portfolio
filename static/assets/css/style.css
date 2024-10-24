@@ -294,8 +294,8 @@ header .navbar ul li a:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 10px; /* Space between cards */
-  padding: 20px;
+  gap: 10px;
+  /* padding: 20px; */
 }
 /* 
 .honors-card {
@@ -672,7 +672,7 @@ header .navbar ul li a:hover {
   gap: 1.8rem;
 }
 .skills .container .bar {
-  margin-bottom: 15px;
+  /* margin-bottom: 15px; */
   padding: 10px;
   border-radius: 1rem;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
@@ -708,7 +708,7 @@ header .navbar ul li a:hover {
   .skills .container .row {
     grid-template-columns: repeat(2, 1fr);
     margin: 1rem;
-    padding: 2rem 0.2rem 2rem 0.2rem;
+    padding: 0.2rem 2rem 0.2rem;
     gap: 1rem;
   }
   .skills .container {
